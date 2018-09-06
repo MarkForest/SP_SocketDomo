@@ -1,0 +1,6 @@
+c:\users\teather\documents\visual studio 2017\Projects\ServerNetwork\ServerNetwork\bin\Debug\ServerNetwork.exe.config
+c:\users\teather\documents\visual studio 2017\Projects\ServerNetwork\ServerNetwork\bin\Debug\ServerNetwork.exe
+c:\users\teather\documents\visual studio 2017\Projects\ServerNetwork\ServerNetwork\bin\Debug\ServerNetwork.pdb
+c:\users\teather\documents\visual studio 2017\Projects\ServerNetwork\ServerNetwork\obj\Debug\ServerNetwork.csprojResolveAssemblyReference.cache
+c:\users\teather\documents\visual studio 2017\Projects\ServerNetwork\ServerNetwork\obj\Debug\ServerNetwork.exe
+c:\users\teather\documents\visual studio 2017\Projects\ServerNetwork\ServerNetwork\obj\Debug\ServerNetwork.pdb

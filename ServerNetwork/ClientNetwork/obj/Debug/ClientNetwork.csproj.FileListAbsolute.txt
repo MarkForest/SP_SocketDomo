@@ -1,0 +1,9 @@
+c:\users\teather\documents\visual studio 2017\Projects\ServerNetwork\ClientNetwork\bin\Debug\ClientNetwork.exe.config
+c:\users\teather\documents\visual studio 2017\Projects\ServerNetwork\ClientNetwork\bin\Debug\ClientNetwork.exe
+c:\users\teather\documents\visual studio 2017\Projects\ServerNetwork\ClientNetwork\bin\Debug\ClientNetwork.pdb
+c:\users\teather\documents\visual studio 2017\Projects\ServerNetwork\ClientNetwork\obj\Debug\ClientNetwork.csprojResolveAssemblyReference.cache
+c:\users\teather\documents\visual studio 2017\Projects\ServerNetwork\ClientNetwork\obj\Debug\ClientNetwork.Form1.resources
+c:\users\teather\documents\visual studio 2017\Projects\ServerNetwork\ClientNetwork\obj\Debug\ClientNetwork.Properties.Resources.resources
+c:\users\teather\documents\visual studio 2017\Projects\ServerNetwork\ClientNetwork\obj\Debug\ClientNetwork.csproj.GenerateResource.Cache
+c:\users\teather\documents\visual studio 2017\Projects\ServerNetwork\ClientNetwork\obj\Debug\ClientNetwork.exe
+c:\users\teather\documents\visual studio 2017\Projects\ServerNetwork\ClientNetwork\obj\Debug\ClientNetwork.pdb
